@@ -2,6 +2,10 @@
 published: false
 ---
 
+---
+title: I Like my Website
+layout: post
+---
 ## I like my website
 
 Nullam accumsan lorem in dui. Sed magna purus, fermentum eu, tincidunt eu, varius ut, felis. Donec sodales sagittis magna.
