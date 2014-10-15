@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: I Like My Website
 ---
 
 ## I like my website
